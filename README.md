@@ -3,6 +3,7 @@
 Final Project for CMPINF 0010
 -
 Team name: Strawberries
+Canvas Group #: 41
 
 Team members: Dana Pinadella (DAP247@pitt.edu) and Laiba Awan (LSA15@pitt.edu)
 
